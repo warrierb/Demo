@@ -4,3 +4,11 @@ drwxr-xr-x 1 Balan 197121 0 Jun  3 09:50 ../
 drwxr-xr-x 1 Balan 197121 0 Jun  3 09:53 .git/
 drwxr-xr-x 1 Balan 197121 0 Jun  3 09:54 datafiles/
 -rw-r--r-- 1 Balan 197121 0 Jun  3 09:55 filelist.txt
+total 11
+drwxr-xr-x 1 Balan 197121   0 Jun  3 09:57 ./
+drwxr-xr-x 1 Balan 197121   0 Jun  3 09:50 ../
+drwxr-xr-x 1 Balan 197121   0 Jun  3 10:05 .git/
+drwxr-xr-x 1 Balan 197121   0 Jun  3 09:54 datafiles/
+-rw-r--r-- 1 Balan 197121 250 Jun  3 09:55 filelist.txt
+-rw-r--r-- 1 Balan 197121   4 Jun  3 09:56 test02
+-rw-r--r-- 1 Balan 197121  23 Jun  3 10:03 test03
